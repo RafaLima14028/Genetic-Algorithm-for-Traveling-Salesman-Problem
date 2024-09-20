@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+*.cache
+*.log
+
+# Virtual environment
+env/
+venv/
+ENV/
+VENV/
+.pip-selfcheck.json
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
